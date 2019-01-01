@@ -1,0 +1,3 @@
+## DESIGN PATTERN SUMMARY
+
+## Singleton
